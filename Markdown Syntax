@@ -1,4 +1,4 @@
-Markdown Syntax
+**Markdown Syntax**
 1. # to ###### : Headings (number of hashes = Level, H1 to H6
 2. **text** : Bold
 3. *text* / _text_ : Italic
