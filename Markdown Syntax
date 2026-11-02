@@ -1,0 +1,16 @@
+Markdown Syntax
+1. # to ###### : Headings (number of hashes = Level, H1 to H6
+2. **text** : Bold
+3. *text* / _text_ : Italic
+4. - / * / + plus a space: Bullet List 
+5. 1. Numbered List
+6. [Text] (URL) : Link
+7. ![alt](url) : Image
+8. 'code' : Inline Code 
+9. ''' : Code Block
+10. > : Block Quote
+11. | : Table Column Separator
+12. |---| : Table Head Separator
+13. --- / *** / --- :  Horizontal Rule 
+14. - [] * : Checkbox
+15. ~~text~~ * : Strikethrough
