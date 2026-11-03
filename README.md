@@ -1,8 +1,10 @@
 # Git-Commands
+https://github.com/joshnh/Git-Commands
+
 To practice Git Commands Exercise 
 Git is a distributed version control system used to track changes in source code.
 
-Developed by Linus Torvalds.
+# Developed by Linus Torvalds. #
 
 Why use Git?
 Git helps to:
